@@ -1,0 +1,5 @@
+package com.sekhar4j.lambda;
+
+public class LambdaScopeTest {
+
+}
